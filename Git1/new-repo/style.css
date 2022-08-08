@@ -1,0 +1,16 @@
+body{
+    background-color: lightgrey;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    font-size: 30px;
+    color: blue;
+}
+
+img{
+    max-width: 300px;
+}
